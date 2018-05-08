@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Implementation-Title: SpringBootCrudOP
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: VINAY
+Built-By: Swapnil
 Implementation-Vendor-Id: com.cjc
 Build-Jdk: 1.8.0_144
 Implementation-URL: http://projects.spring.io/spring-boot/SpringBootCr
